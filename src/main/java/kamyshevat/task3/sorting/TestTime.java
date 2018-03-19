@@ -1,6 +1,6 @@
 package kamyshevat.task3.sorting;
 
-public class TestTi {
+public class TestTime {
 
 
     public static void main(String[] args) {
